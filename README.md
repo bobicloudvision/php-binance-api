@@ -2,7 +2,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaggedsoft/php-binance-api.svg?style=flat-square)](#) 
 [![Packagist Downloads](https://img.shields.io/packagist/dt/jaggedsoft/php-binance-api.svg?style=flat-square)](https://packagist.org/packages/jaggedsoft/php-binance-api) 
 
-> **Help wanted:** This library is officially depreciated and will only be actively maintained by the community, for full support use the [Javascript API](https://github.com/jaggedsoft/node-binance-api). <br/> ***Pull requests are welcome.***
+> **Help wanted:** This library is officially depreciated and will only be actively maintained by the community, for full support use the [Javascript API](https://github.com/bobicloudvision/node-binance-api). <br/> ***Pull requests are welcome.***
 <!--
 [![Build Status](https://travis-ci.org/jaggedsoft/php-binance-api.svg?branch=master&style=flat-square)](https://travis-ci.org/jaggedsoft/php-binance-api) 
 [![Coverage Status](https://coveralls.io/repos/github/jaggedsoft/php-binance-api/badge.svg?branch=master&style=flat-square)](https://coveralls.io/github/jaggedsoft/php-binance-api) 
@@ -16,7 +16,7 @@ This project is designed to help you make your own projects that interact with t
 
 #### Installation
 ```
-composer require "jaggedsoft/php-binance-api @dev"
+composer require "bobicloudvision/php-binance-api @dev"
 ```
 <details>
  <summary>Click for help with installation</summary>
@@ -31,7 +31,7 @@ php composer.phar install
 ```
 Composer not found? Use this command instead:
 ```
-php composer.phar require "jaggedsoft/php-binance-api @dev"
+php composer.phar require "bobicloudvision/php-binance-api @dev"
 ```
 
 #### Windows:
@@ -40,7 +40,7 @@ php composer.phar require "jaggedsoft/php-binance-api @dev"
 </details>
 
 #### Getting started
-`composer require jaggedsoft/php-binance-api`
+`composer require bobicloudvision/php-binance-api`
 ```php
 require 'vendor/autoload.php';
 // 1. config in home directory
